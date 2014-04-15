@@ -19,3 +19,8 @@
 *.exe
 *.out
 *.app
+
+# IDE stuff
+x64
+*.sdf
+

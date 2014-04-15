@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FastPoisson", "FastPoisson\FastPoisson.vcxproj", "{CF0F8B74-C53A-44CC-A686-B71EE8011C47}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TDMAParabolic", "TDMAParabolic\TDMAParabolic.vcxproj", "{022506C1-E660-47E9-8A82-6EE12EC1356C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF0F8B74-C53A-44CC-A686-B71EE8011C47}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CF0F8B74-C53A-44CC-A686-B71EE8011C47}.Debug|Win32.Build.0 = Debug|Win32
+		{CF0F8B74-C53A-44CC-A686-B71EE8011C47}.Debug|x64.ActiveCfg = Debug|x64
+		{CF0F8B74-C53A-44CC-A686-B71EE8011C47}.Debug|x64.Build.0 = Debug|x64
+		{CF0F8B74-C53A-44CC-A686-B71EE8011C47}.Release|Win32.ActiveCfg = Release|Win32
+		{CF0F8B74-C53A-44CC-A686-B71EE8011C47}.Release|Win32.Build.0 = Release|Win32
+		{CF0F8B74-C53A-44CC-A686-B71EE8011C47}.Release|x64.ActiveCfg = Release|x64
+		{CF0F8B74-C53A-44CC-A686-B71EE8011C47}.Release|x64.Build.0 = Release|x64
+		{022506C1-E660-47E9-8A82-6EE12EC1356C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{022506C1-E660-47E9-8A82-6EE12EC1356C}.Debug|Win32.Build.0 = Debug|Win32
+		{022506C1-E660-47E9-8A82-6EE12EC1356C}.Debug|x64.ActiveCfg = Debug|Win32
+		{022506C1-E660-47E9-8A82-6EE12EC1356C}.Release|Win32.ActiveCfg = Release|Win32
+		{022506C1-E660-47E9-8A82-6EE12EC1356C}.Release|Win32.Build.0 = Release|Win32
+		{022506C1-E660-47E9-8A82-6EE12EC1356C}.Release|x64.ActiveCfg = Release|x64
+		{022506C1-E660-47E9-8A82-6EE12EC1356C}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
